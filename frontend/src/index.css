@@ -1,0 +1,10 @@
+body{
+    background-color: #212529;
+}
+
+#root{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100dvh;
+}
